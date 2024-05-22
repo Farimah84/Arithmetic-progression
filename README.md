@@ -1,3 +1,3 @@
-# Arithmetic_progression_project
+# Arithmetic-progression-project
 
 This is Arithmetic progression project
